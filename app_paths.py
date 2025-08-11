@@ -2,7 +2,7 @@
 import os, platform, sys
 from pathlib import Path
 
-APP_NAME = "Solar System Simulation"  # <-- pick your app name
+APP_NAME = "Solar System Simulation" 
 
 def user_data_dir(app_name: str = APP_NAME) -> Path:
     if platform.system() == "Windows":
