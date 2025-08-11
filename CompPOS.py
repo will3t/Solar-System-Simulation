@@ -1,4 +1,4 @@
-# William Thompson 38946378
+
 
 # File for cross checking positional data from JPL and from the Simulations
 
