@@ -1,4 +1,4 @@
-# William Thompson 38946378
+
 
 # File for Creating the Verlet Graphs
 # This program is very similar to others so comments may appear again here.
