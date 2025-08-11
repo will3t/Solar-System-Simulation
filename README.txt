@@ -1,5 +1,3 @@
-William Thompson 38946378
-
 REQUIRED LIBRARIES:
     AstroPy.time
     AstroPy.units
