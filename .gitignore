@@ -11,3 +11,4 @@ dist copy/
 .DS_Store
 .vscode/
 .idea/
+*.spec # ignore all .spec going forward
