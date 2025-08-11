@@ -1,4 +1,4 @@
-# William Thompson : 38946378
+
 # This is the Class script for the Simulation. Contains the Stellar Body class along with the relevant methods.
 
 # Importing the relevant libraries
