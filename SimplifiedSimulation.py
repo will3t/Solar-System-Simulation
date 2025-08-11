@@ -1,4 +1,4 @@
-# William Thompson 38946378
+
 
 # This is a simplified version of the solar system simulation
 # This is not referenced or opened within the main.py file
