@@ -1,4 +1,4 @@
-# William Thompson : 2025 
+
 # Main Script that is the only program directly ran by the user. Here the main interface lies along with the code for the simulations themselves.
 
 # To note: Though some comments are repeated this was due to the size of the program...
